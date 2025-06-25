@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>마이홈페이지 만들기</title>
+    <style>
+        h2{color:rgb(233, 171, 209); background-color: black;text-align: center;}
+        .a{background-color: rgb(255, 251, 0);}
+        h2{font-style:italic;}
+        #b {border: 3px solid red}
+    </style>
+</head>
+<body>
+    <h2 class="a" id="b">My homepage</h2>
+    <ul type="square">
+        <li>1 학교 근처 맛집 정보</li>
+        <li>2 나의 시간표</li>
+        <li>3 오늘의 할 일</li>
+    </ul>
+    <h2>다음에 또 만나요~</h2>
+</body>
+</html>
